@@ -31,8 +31,6 @@ function copyFrame() {
 
 function init() {
 
-    console.log("Initalize....")
-
     for(var i=0; i <NUM_CELLS_X; i++){
         currFrame[i] = new Array();
         prevFrame[i] = new Array();
