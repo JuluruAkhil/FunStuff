@@ -1,8 +1,8 @@
-const width = 800;
-const height = 600;
+const width = 1000;
+const height = 800;
 
-const NUM_CELLS_X = 80;
-const NUM_CELLS_Y = 60;
+const NUM_CELLS_X = 100;
+const NUM_CELLS_Y = 80;
 
 var DEAD_CELL_COLOUR = '#FFFFFF'
 var LIVE_CELL_COLOUR = '#000000'
