@@ -4,9 +4,9 @@ const height = 600;
 const NUM_CELLS_X = 80;
 const NUM_CELLS_Y = 60;
 
-var DEAD_CELL_COLOUR = '#E1E1E1'
+var DEAD_CELL_COLOUR = '#FFFFFF'
 var LIVE_CELL_COLOUR = '#000000'
-var BORDER_COLOUR = '#999999'
+var BORDER_COLOUR = '#FFFFFF'
 
 const NEIGHBOUR_OFFSETS = [
     [-1,-1],[-1,0],[-1,1],
